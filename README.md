@@ -7,7 +7,7 @@ This project is built using React and Vite, providing a fast and efficient devel
 This project includes the following pages and features:
 
 - **Dashboard**: Under development.
-- **Analytics**: Completed. [View Analytics Page](http://localhost:3000/analytics)
+- **Analytics**: Completed. [View Analytics Page](https://vertx-ajithkumar.vercel.app/analytics)
 - **Connect**: Under development.
 - **Dealroom**: Under development.
 - **Profile**: Under development.
@@ -17,7 +17,7 @@ This project includes the following pages and features:
 
 The Analytics page is the only completed page in this project. It provides insights into various metrics such as visitors, connections, interactions, and impressions. You can access the Analytics page by navigating to the following link:
 
-[Analytics Page](http://localhost:3000/analytics)
+[Analytics Page](https://vertx-ajithkumar.vercel.app/analytics)
 
 ## Profile Page
 

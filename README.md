@@ -19,6 +19,12 @@ The Analytics page is the only completed page in this project. It provides insig
 
 [Analytics Page](http://localhost:3000/analytics)
 
+## Profile Page
+
+The profile page is the only completed page in this project. It provides user details. You can access the profile page by navigating to the following link:
+
+[Profile Page](https://vertx-ajithkumar.vercel.app/profile/1)
+
 ## Getting Started
 
 To run this project locally, follow these steps:
@@ -38,6 +44,7 @@ To run this project locally, follow these steps:
     http://localhost:3000
 
 ## Technologies Used
+```bash
 React: Frontend library for building user interfaces.
 Vite: Build tool for fast development and optimized production builds.
 Tailwind CSS: Utility-first CSS framework for styling.

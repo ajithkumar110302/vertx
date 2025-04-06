@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
     http://localhost:3000
 
 ## Technologies Used
-```bash
+
 React: Frontend library for building user interfaces.
 Vite: Build tool for fast development and optimized production builds.
 Tailwind CSS: Utility-first CSS framework for styling.

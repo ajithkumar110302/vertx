@@ -1,12 +1,57 @@
-# React + Vite
+# React + Vite Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is built using React and Vite, providing a fast and efficient development environment with HMR (Hot Module Replacement) and ESLint integration.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project includes the following pages and features:
 
-## Expanding the ESLint configuration
+- **Dashboard**: Under development.
+- **Analytics**: Completed. [View Analytics Page](http://localhost:3000/analytics)
+- **Connect**: Under development.
+- **Dealroom**: Under development.
+- **Profile**: Under development.
+- **Settings**: Under development.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Analytics Page
+
+The Analytics page is the only completed page in this project. It provides insights into various metrics such as visitors, connections, interactions, and impressions. You can access the Analytics page by navigating to the following link:
+
+[Analytics Page](http://localhost:3000/analytics)
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd vertx-assignment
+2. Install dependencies:
+   ```bash
+   npm install
+3. Start the development server:
+    ```bash
+    npm run dev
+4. Open the application in your browser:
+    ```bash
+    http://localhost:3000
+
+## Technologies Used
+React: Frontend library for building user interfaces.
+Vite: Build tool for fast development and optimized production builds.
+Tailwind CSS: Utility-first CSS framework for styling.
+React Router: For routing and navigation.
+
+## Folder Structure
+
+vite-project/
+├── src/
+│   ├── components/       # Reusable components
+│   ├── pages/            # Page components
+│   ├── utils/            # Utility functions and data
+│   ├── App.jsx           # Main application file
+│   └── main.jsx          # Entry point
+├── public/               # Static assets
+├── package.json          # Project dependencies and scripts
+└── [README.md](http://_vscodecontentref_/1)             # Project documentation

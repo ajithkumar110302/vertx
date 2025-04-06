@@ -44,7 +44,7 @@ Tailwind CSS: Utility-first CSS framework for styling.
 React Router: For routing and navigation.
 
 ## Folder Structure
-
+```bash
 vite-project/
 ├── src/
 │   ├── components/       # Reusable components
